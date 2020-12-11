@@ -27,4 +27,5 @@ most_frequent_words = get_n_most_frequent_words(freqs, 1000)
 plot_freq_against_rank(most_frequent_words)
 
 
-# some irrelevant changes in form of text lines
+# sorry, I cannot fix the code!
+# but I made some irrelevant changes in form of text lines
